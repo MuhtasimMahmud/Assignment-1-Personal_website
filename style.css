@@ -1,0 +1,52 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Smooch', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.orange-button{
+    text-decoration: none;
+    padding: 12px 35px;
+    background-image: linear-gradient(50deg, tomato, orangered);
+    color: white;
+}
+.highlight{
+    color: rgb(218, 77, 26);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 75%;
+    margin-top: 5%;
+}
+h1{
+    font-size: 50px;
+    line-height: 15px;
+}
+h2{
+    font-size: 40px;
+}
+.introduction .left{
+    margin-top: 10%;
+}
+.left p{
+    color: gray;
+    margin-bottom: 50px;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    margin-right: 200px;
+    
+}
+li{
+    display: inline;
+    padding: 10px;    
+}
