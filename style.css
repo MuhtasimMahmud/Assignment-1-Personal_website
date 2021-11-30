@@ -22,7 +22,7 @@ body{
     padding-left: 2%;
 }
 .half-width img{
-    width: 75%;
+    width: 60%;
     margin-top: 5%;
 }
 h1{
@@ -59,4 +59,56 @@ li a{
 }
 .navigation-bar{
     margin-top: 30px;
+}
+section{
+    height: 62vh;
+}
+.latest-works h2{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.three-fourth-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 1px gray;
+
+}
+.three-fourth-height img{
+    width: 95%;
+    height: 75%;    
+}
+.work-inquiry .half{
+    float: left;
+    width: 50%;
+    margin: auto;
+    padding: 29px 0;
+}
+.work-inquiry{
+    text-align: center;
+    background-image: linear-gradient(45deg, blue, lightblue);
+    height: 18vh;
+    border-radius: 35px;
+    width: 800px;
+    margin: auto;
+    color: white;
+}
+#bbb{
+    display: inline-block;
+    margin-top: 24px;
+}
+footer{
+    color: gray;
+    margin-top: 70px;
+    text-align: center;
+    line-height: 10px;
+}
+footer h2{
+    color: black;
+}
+.icons a img{
+    height: 30px;
+    padding-left: 15px;
 }
